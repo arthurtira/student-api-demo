@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+amazon:
+  aws:
+    region: eu-west-1
